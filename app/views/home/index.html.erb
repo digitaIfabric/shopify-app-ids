@@ -9,8 +9,9 @@
 
 <ul>
   <% @products.each do |product| %>
-    <li><%= link_to product.title, "https://#{@shop_session.url}/admin/products/#{product.id}", target: "_top" %></li>
-  <% end %>
+      <li><%= link_to product.title, "https://#{@shop_session.url}/admin/products/#{product.id}", target: "_top" %></li>
+      <li><%= link_to product.id, "https://#{@shop_session.url}/admin/products/#{product.id}", target: "_top" %></li>
+<% end %>
 </ul>
 
 <hr>

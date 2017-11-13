@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a74136c-5eb6-4647-98e2-e8453e792fa0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/index.html.erb" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -312,7 +311,7 @@
       <updated>1510252071034</updated>
       <workItem from="1510252072458" duration="1480000" />
       <workItem from="1510588593782" duration="369000" />
-      <workItem from="1510610947511" duration="126000" />
+      <workItem from="1510610947511" duration="232000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index">
       <created>1510424966972</created>
@@ -332,7 +331,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6570000" />
+    <option name="totallyTimeSpent" value="6676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />

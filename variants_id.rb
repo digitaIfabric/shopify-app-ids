@@ -1,9 +1,11 @@
 require 'rubygems'
 require 'shopify_api'
+require 'dotenv'
+Dotenv.load
 
-APIKEY = '1b6d950fcba683a59528e359bdb48031'
-PASSWORD = '98578c8e00f3844ab4615eb1fd5a3682'
-SHOPNAME = 'digitalfabric2'
+APIKEY = ENV['API_KEY']
+PASSWORD = ENV['API_SECRET']
+SHOPNAME = ENV['SHOPNAME']
 
 CYCLE = 10 * 60
 
